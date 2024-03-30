@@ -12,7 +12,7 @@
 
 
 
-<h2>✔ Github Stats ✔</h2>
+<h2>Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bongjooncha&layout=compact&theme=dark" width="40%">
 </div>
