@@ -2,7 +2,7 @@
 
 <div align="right">
   <em>
-    <a href="https://bongjooncha.github.io/" target="_blank">technical blog</a></br>
+    <a href="https://bongjooncha.github.io/blog" target="_blank">technical blog</a></br>
     <a href="https://blog.naver.com/bongjooncha" target="_blank">personal blog</a>
   </em>
   <br>
