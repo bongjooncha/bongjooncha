@@ -7,7 +7,7 @@
   </em>
   <br>
 </div>
-프런트, 백, dev, ios 등에 지식이 있으며 visionOS 개발에 집중하고 있는 개발자입니다.
+프런트, 백, dev, iOS, visionOS에 지식이 있으며 전반적인 개발과 프로젝트 메니징을 겸업합니다.
   <br>
   <br>
 <h2>My Skills</h2>
