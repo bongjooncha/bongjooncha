@@ -7,7 +7,7 @@
   </em>
   <br>
 </div>
-프런트, 백, Ops, iOS, visionOS에 지식이 있으며 전반적인 개발과 프로젝트 메니징을 겸업합니다.
+프런트, 백, Ops, iOS, visionOS등 다양한 플랫폼 개발 경험에 기반하여, 현장에 필요한 솔루션 개발 설계하는 AX 컨설턴트(FDE)입니다.
   <br>
   <br>
 <h2>My Skills</h2>
